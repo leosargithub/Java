@@ -12,6 +12,8 @@ public class Demo {
         int sum = num + num2;
         System.out.println("Sum of " + num + " and " + num2 + " is " + sum);
 
+    int sub = num - num2;
+    System.out.println("Sub of " + num + " and " + num2 + " is " + sub);
 
 
     }
